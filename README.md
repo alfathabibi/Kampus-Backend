@@ -5,7 +5,7 @@
 * Download or Pull branch master
 * Extract and open folder in your IDE
 * Create your database MySQL
-* Config the url database in 
+* Config the url database in Kampus-Backend/src/main/resources/application.properties
 * Run The Application
 
 #### Collection for REST API can be access here
